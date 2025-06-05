@@ -1,0 +1,1 @@
+# MultiCurrency-for-macOS
